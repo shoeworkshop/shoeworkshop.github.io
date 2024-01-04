@@ -25,7 +25,7 @@ a.btn-warning {
 }
 
 .section-1 {
-  background-image: url('/images/BG-002.png');
+  background-image: url('BG-002.png');
   height: 70vh;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -96,7 +96,7 @@ a.btn-warning {
 }
 
 .section-3 .card {
-  background-image: url('/images/BG-001.png');
+  background-image: url('BG-001.png');
   border: none;
 }
 .section-3 .card h3 {
@@ -294,28 +294,6 @@ footer a.btn {
   .section-4 .ms-auto {
     display: none;
   }
-  .section-4 h1 {
-    color: #1c2d27;
-    font-family: Poppins;
-    font-size: 54px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 56px; /* 87.5% */
-    text-transform: uppercase;
-    text-align:center;
-  }
-  .section-4 h4 {
-    color: #1c2d27;
-    leading-trim: both;
-    text-edge: cap;
-    font-family: Poppins;
-    font-size: 22px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 28px; /* 105.556% */
-    text-align:center;
-  }
-
   .section-5 .img-2 {
     width: 120% !important;
     height: 100% !important;
