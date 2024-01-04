@@ -108,9 +108,8 @@ a.btn-warning {
   font-weight: 500;
   line-height: 48px; /* 240% */
 }
-.section-3 .card button {
+.section-3 .card div.labeling {
   background-color: #29b288;
-  color: #fff;
   text-align: center;
   font-family: Poppins;
   font-size: 24px;
@@ -121,7 +120,9 @@ a.btn-warning {
 }
 .section-3 .btn-before-after {
   width: max-content;
+  background-color: #29b288;
   border-radius: 50%;
+  color: #fff;
   position: absolute;
   top: 10rem;
   right: 0px;
