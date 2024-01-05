@@ -303,6 +303,7 @@ footer a.btn {
     line-height: 56px; /* 87.5% */
     text-transform: uppercase;
     text-align:center;
+    margin-left: 0px !important;
   }
   .section-4 h4 {
     color: #1c2d27;
@@ -314,6 +315,7 @@ footer a.btn {
     font-weight: 400;
     line-height: 28px; /* 105.556% */
     text-align:center;
+    margin-left: 0px !important;
   }
   .section-5 .img-2 {
     width: 120% !important;
