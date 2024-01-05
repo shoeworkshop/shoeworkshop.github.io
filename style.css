@@ -127,10 +127,6 @@ a.btn-warning {
   top: 10rem;
   right: 0px;
 }
- .section-4 .align-self-center{
-    text-align: center;
-    margin-left:2rem;
-  }
 .section-4 .ms-auto img {
   margin-left: 35rem;
 }
@@ -292,10 +288,6 @@ footer a.btn {
     line-height: 28px; /* 100% */
     text-transform: uppercase;
     padding-top: 30px;
-  }
-  .section-4 .align-self-center{
-    text-align: center;
-    margin-left:2rem;
   }
   .section-4 .ms-auto {
     display: none;
