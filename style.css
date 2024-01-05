@@ -290,7 +290,10 @@ footer a.btn {
     text-transform: uppercase;
     padding-top: 30px;
   }
-
+  .section-4 .align-self-center{
+    text-align: center;
+    margin-left:2rem;
+  }
   .section-4 .ms-auto {
     display: none;
   }
